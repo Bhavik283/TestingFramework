@@ -7,8 +7,8 @@
 
 import SwiftUI
 
-struct CustomView: View {
-    var body: some View {
+public struct CustomView: View {
+    public var body: some View {
         Text("Hello World!")
     }
 }
